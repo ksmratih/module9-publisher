@@ -11,5 +11,7 @@
     - Both publisher and subscriber need to connect to the same broker to exchange messages through the queue.
 
 ### RabbitMQ
-
 ![](images/rabbit.png)
+
+### Consoles
+![](images/event.png)

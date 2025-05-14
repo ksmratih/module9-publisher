@@ -9,3 +9,7 @@
     - `localhost` means the RabbitMQ server is running locally on the same machine.
     - `5672` is the default AMQP protocol port used by RabbitMQ.
     - Both publisher and subscriber need to connect to the same broker to exchange messages through the queue.
+
+### RabbitMQ
+
+![](images/rabbit.png)

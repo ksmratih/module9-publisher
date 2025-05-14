@@ -15,3 +15,7 @@
 
 ### Consoles
 ![](images/event.png)
+
+### RabbitMQ after running publisher
+![](images/rabbit2.png)
+The spikes in the RabbitMQ chart show the moment when the publisher sends events to the message broker. Each spike corresponds to a burst of messages being published during a single execution of the publisher program. This causes the message rate to temporarily rise, shown by the peak on the graph. After the messages have been sent, the graph returns to flat.
